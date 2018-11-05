@@ -1,0 +1,17 @@
+.votebtn{
+    max-width: calc(100% - 1px);
+    margin: 1em auto;
+    overflow: hidden;
+    width: 600px;
+}
+
+.table-users {
+    max-width: calc(100% - 1px);
+    width: 600px;
+}
+.modal-size{
+    max-width: calc(100% - 1px);
+    margin: 1em auto;
+    overflow: hidden;
+    width: 600px;
+}
